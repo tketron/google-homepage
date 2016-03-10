@@ -1,13 +1,21 @@
 #logo {
-	background-color:black;
+	display:block;
 	margin:0 auto;
+	padding-top:200px;
 }
 
 #logo-image {
+	display:block;
+	margin:0 auto;
+}
+
+#search-bar {
+	display:block;
 	margin:0 auto;
 }
 
 #search-bar-form {
 	height:30px;
 	width:200px;
+	margin:0 auto;
 }
